@@ -1,0 +1,6 @@
+[25.12.2022 23:59:29 ] [INFO] [main] [<module>: 5] => Start
+[25.12.2022 23:59:38 ] [INFO] [user_interface] [ls_menu: 44] => Выбран пункт №5
+[25.12.2022 23:59:42 ] [INFO] [user_interface] [ls_menu: 46] => User entered: {name}
+[25.12.2022 23:59:47 ] [INFO] [user_interface] [ls_menu: 48] => User entered: {surname}
+[25.12.2022 23:59:50 ] [INFO] [user_interface] [ls_menu: 50] => User entered: {number}
+[26.12.2022 00:11:00 ] [INFO] [user_interface] [ls_menu: 52] => User entered: {email}
